@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **mohsinzeeshan2003@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/syedm/Downloads/Mohsin%20Zeeshan's%20CV.pdf](file:///C:/Users/syedm/Downloads/Mohsin%20Zeeshan's%20CV.pdf)
+- 📄 Know about my experiences: [Mohsin_CV.pdf](https://github.com/user-attachments/files/20094439/Mohsin_CV.pdf)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
