@@ -2,8 +2,15 @@
 
 🌟 Proactive student currently pursuing a Bachelors in Computer Science at University of Bristol.
 
-🌟 Currently developing a machine learning web app that predicts train accidents based on Office of Rail and Road datasets.
+🌟 Predicted Grade: 1st Class 
 
+🌟 Currently developing a machine learning web app that predicts train accidents based on Office of Rail and Road datasets with Synoptix
+
+
+🌱 I’m currently learning:
+Google Advanced Data Analytics Professional Certificate
+
+    
 
 
 <!--
