@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Mohsin Zeeshan Syed! 👋🏼
+
+🌟 Proactive student currently pursuing a Bachelors in Computer Science at University of Bristol.
+
+🌟 Currently developing a machine learning web app that predicts train accidents based on Office of Rail and Road datasets.
+
+
 
 <!--
 **Mohsin-Zeeshan/Mohsin-Zeeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
