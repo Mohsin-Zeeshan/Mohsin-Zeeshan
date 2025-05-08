@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsin-zeeshan" alt="mohsin-zeeshan" /></a> </p>
 
-- 🔭 I’m currently working on [Railway Traffic Analysis]([(https://railwaytrafficanalysis.co.uk/)](https://railwaytrafficanalysis.co.uk/))
+- 🔭 I’m currently working on [Railway Traffic Analysis](https://railwaytrafficanalysis.co.uk/)
 
 - 🌱 I’m currently learning **Google Advanced Data Analytics Professional Certificate** & **Google Cybersecurity on Coursera**
 
