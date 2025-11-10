@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohsin Zeeshan Syed</h1>
-<h3 align="center">A Penultimate Computer Science student</h3>
+<h3 align="center">A Final Computer Science student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsin-zeeshan" alt="mohsin-zeeshan" /></a> </p>
 
-- 🔭 I’m currently working on [Railway Traffic Analysis](https://railwaytrafficanalysis.co.uk/)
+- 🔭 I’m currently working at [Kurve]((https://kurvekiosks.com/))
 
 - 🌱 I’m currently learning **Google Advanced Data Analytics Professional Certificate** & **Google Cybersecurity on Coursera**
 
 - 📫 How to reach me **mohsinzeeshan2003@gmail.com**
 
-- 📄 Know about my experiences: [Mohsin_CV.pdf](https://github.com/user-attachments/files/20094439/Mohsin_CV.pdf)
+- 📄 Know about my experiences: [Mohsin_CV.pdf](file:///C:/Users/syedm/Downloads/Mohsin_CV.pdf)
 
 
 
