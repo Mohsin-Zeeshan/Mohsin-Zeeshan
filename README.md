@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Kurve]((https://kurvekiosks.com/))
 
-- 🌱 I’m currently learning **Google Advanced Data Analytics Professional Certificate** & **Google Cybersecurity on Coursera**
+- 🌱 I’m currently studying at the University of Bristol 
 
 - 📫 How to reach me **mohsinzeeshan2003@gmail.com**
 
